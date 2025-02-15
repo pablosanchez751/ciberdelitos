@@ -1,0 +1,1 @@
+Te abre 50 ventanas del explorador de archivos
